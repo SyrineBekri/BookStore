@@ -1,0 +1,22 @@
+.cart {
+  text-decoration: none;
+  font-size: 14px;
+}
+
+.badd {
+  width: 100%;
+}
+
+.headline {
+  color: blue;
+  font-weight: 700;
+}
+
+.price {
+  font-weight: 700;
+}
+.old {
+  font-weight: 400;
+  font-size: 12px;
+  text-decoration: line-through;
+}
